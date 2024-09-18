@@ -4,3 +4,5 @@ apache/apisix:3.9.1-debian
 busybox:1.28
 apache/apisix-dashboard:3.0.0-alpine
 apache/apisix-ingress-controller:1.8.0
+nacos/nacos-peer-finder-plugin:1.1
+nacos/nacos-server:v2.3.0
