@@ -7,3 +7,4 @@ apache/apisix-dashboard:3.0.0-alpine
 apache/apisix-ingress-controller:1.8.0
 nacos/nacos-peer-finder-plugin:1.1
 nacos/nacos-server:v2.3.0
+kennethreitz/httpbin
