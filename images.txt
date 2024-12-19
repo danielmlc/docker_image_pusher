@@ -14,3 +14,4 @@ kubesphere/ks-installer:v3.3.2
 kubesphere/kube-state-metrics:v2.5.0
 kubesphere/openpitrix-jobs:v3.3.2
 kubesphere/nginx-ingress-controller:v1.1.0
+xiaoyaliu/alist:latest
